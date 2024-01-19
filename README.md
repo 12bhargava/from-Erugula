@@ -34,6 +34,13 @@ My Favourate Songs
 |------------------|----------------------------------------------------------------------|---------------|
 |Beliver           |Dan Reynolds told People that the song was inspired by his experiences|Imagine Dragons|
 
+-----
+My Favorites Quotes
+----
+
+>"The only way to do great work is to love what you do." - ***Steve Jobs***
+
+>"Believe you can and you're halfway there." - ***Theodore Roosevelt***
 
 
 
