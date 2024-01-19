@@ -42,6 +42,17 @@ My Favorites Quotes
 
 > Believe you can and you're halfway there. - ***Theodore Roosevelt***
 
+------
+Code Snippet
+------
+SQL code displays a record if all the conditions separated by AND are true
+
+```
+    SELECT DISTINCT column1, column2, ...
+    FROM table_name;
+```
+Link for SQl And operator code snipet <https://code.pieces.app/collections/sql>
+
 
 
 
