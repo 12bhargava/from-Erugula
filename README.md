@@ -18,6 +18,23 @@ Favourite Dishes
     * Tank Bund
 * Banglore
 
+-------
+
 Bhargava MyMedia<MyMedia.md>
+----
+My Favourate Songs
+---
+|Name of the song  |singer         |
+|------------------|---------------|
+|Cruel Summer      |Tylor Swift    |
+|Greedy            |Tate           |
+|Beliver           |Imagine Dragons|
+
+|Name of the song  |Reason                                                                |Singer         |
+|------------------|----------------------------------------------------------------------|---------------|
+|Beliver           |Dan Reynolds told People that the song was inspired by his experiences|Imagine Dragons|
+
+
+
 
 
