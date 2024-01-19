@@ -38,9 +38,9 @@ My Favourate Songs
 My Favorites Quotes
 ----
 
->The only way to do great work is to love what you do. - ***Steve Jobs***
+> The only way to do great work is to love what you do. - ***Steve Jobs***
 
->Believe you can and you're halfway there. - ***Theodore Roosevelt***
+> Believe you can and you're halfway there. - ***Theodore Roosevelt***
 
 
 
