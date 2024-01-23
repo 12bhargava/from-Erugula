@@ -20,7 +20,7 @@ Favourite Dishes
 
 -------
 
-Bhargava MyMedia<MyMedia.md>
+[MyMedia](https://github.com/12bhargava/from-Erugula/blob/main/MyMedia.md)
 ----
 My Favourate Songs
 ---
