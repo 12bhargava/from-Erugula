@@ -45,11 +45,15 @@ My Favorites Quotes
 ------
 Code Snippet
 ------
-SQL code displays a record if all the conditions separated by AND are true
+The Update command in SQL is used to modify the existing records in a table<br>
+For Example:
+Lets say if there is already existing Column but if we want Modify or Update the data of that column we will use 
+update Statement
 
 ```
-    SELECT DISTINCT column1, column2, ...
-    FROM table_name;
+    UPDATE table_name
+    SET column1 = value1, column2 = value2, ...
+    WHERE condition;
 ```
 Link for SQl And operator code snipet <https://code.pieces.app/collections/sql>
 
